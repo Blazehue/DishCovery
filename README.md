@@ -578,7 +578,8 @@ This project is licensed under the MIT License.
 - [Tailwind CSS](https://tailwindcss.com/) for styling utilities
 - [Next.js](https://nextjs.org/) for the amazing framework
 
-## 📧 Contact
+## 📧 Contact:
+Linkedin: https://www.linkedin.com/in/rajat-pandey-58a949257/
 
 Project Link: [https://github.com/Blazehue/DishCovery](https://github.com/Blazehue/DishCovery)
 
