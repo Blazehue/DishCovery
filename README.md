@@ -1,4 +1,4 @@
-# 🍽️ DishCovery - Recipe Finder App
+# DishCovery - Recipe Finder App
 
 A modern, feature-rich recipe finder application built with Next.js, TypeScript, and Tailwind CSS. Search thousands of recipes, filter by dietary preferences, save your favorites, and discover your next culinary adventure!
 
